@@ -37,7 +37,7 @@ vision-control/
 │
 ├── haarcascade_eye.xml
 ├── haarcascade_frontalface_default.xml
-├── main.py
+├── MouseTracker.py
 ├── requirements.txt
 └── README.md
 ```
